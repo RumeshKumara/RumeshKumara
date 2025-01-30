@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SUSL**
   
-- 🧑‍🎓 Degree is **Software Engineering**
+- 🧑‍🎓 Degree program is **Software Engineering**
 
 - 💬 Ask me about **JavaScript**
 
