@@ -1,5 +1,8 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Rumesh Kumara</h1>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h3 align="center">FullSatck Developer | UI UX Designer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RumeshKumara&label=Profile%20views&color=0e75b6&style=flat" alt="RumeshKumara" /> </p>
@@ -37,7 +40,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rumesh" src="" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rumesh" src="https://github.com/RumeshKumara/RumeshKumara/blob/176bfcfd5df5a4609bac63c90db6bc258ade4d3a/ChatGPT%20Image%20Apr%209%2C%202025%2C%2009_39_23%20PM.png" width="50%" /> 
 </td>
 
 <td width="50%" align="center">
