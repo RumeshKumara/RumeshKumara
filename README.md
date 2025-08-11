@@ -17,13 +17,17 @@
   
 - 🧑‍🎓 Degree program is **Software Engineering**
 
+- 💻 Passionate **Frontend Developer** & **UI/UX Enthusiast** 
+
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **rumeshk066@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
-- 💼 Portfolio: [rumesh.me](https://rumesh.me/)  
+- 💼 Portfolio: [rumesh.me](https://rumesh.me/)
+
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/rumesh-kumara-166bb72a5/) 
 
 - 📄 CV: [View My CV](https://drive.google.com/drive/folders/1mXbIzEshVTSoybafWIW38V5_tm5HCdzX) 
 
