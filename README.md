@@ -23,6 +23,10 @@
   
 - ⚡ Fun fact **Call me as KD**
 
+- 💼 Portfolio: [Razaa](https://rumesh.me/)  
+
+- 📄 CV: [View My CV](https://drive.google.com/drive/folders/1mXbIzEshVTSoybafWIW38V5_tm5HCdzX) 
+
 </td>
 <td width="50%" align="center">
 
