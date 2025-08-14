@@ -67,9 +67,34 @@
   </ul>
 </div>
 <!--tech stack icons-->
+
+<h1 align="center">🛠 Skills Overview</h1>
+
+<h2 align="center">🎨 Frontend</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,pug" />
+  </a>
+</p>
+
+<h2 align="center">⚙ Backend</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,py,cpp,postgres,mysql,mongodb,dynamodb,prisma,redis,nginx,kubernetes,docker,aws,firebase" />
+  </a>
+</p>
+
+<h2 align="center">🎯 UI/UX Designer</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,materialui" />
+  </a>
+</p>
+
+<h2 align="center">🧰 Other Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,discord,md" />
   </a>
 </p>
 
