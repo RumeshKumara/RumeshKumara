@@ -73,14 +73,14 @@
 <h2 align="center">🎨 Frontend</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,pug" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
 <h2 align="center">⚙ Backend</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,py,cpp,postgres,mysql,mongodb,dynamodb,prisma,redis,nginx,kubernetes,docker,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,postgres,mysql,mongodb,dynamodb,nginx,kubernetes,docker,aws,firebase" />
   </a>
 </p>
 
