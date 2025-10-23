@@ -22,10 +22,7 @@
 
 ---
 
-<!-- ABOUT ME CARD -->
-<div align="center">
-  <img src="https://github.com/kyechan99/capsule-render/blob/master/dist/transparent/gradient.svg" width="100%">
-</div>
+
 
 <table align="center" width="100%">
 <tr>
