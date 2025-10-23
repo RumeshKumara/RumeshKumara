@@ -1,128 +1,147 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Rumesh Kumara</h1>
+<!-- HEADER -->
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
-</p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h3 align="center">FullSatck Developer | UI UX Designer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RumeshKumara&label=Profile%20views&color=0e75b6&style=flat" alt="RumeshKumara" /> </p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **MERN**
-
-- 🧑‍🎓 I’m an Undergraduate at **SUSL**
-  
-- 🧑‍🎓 Degree program is **Software Engineering**
-
-- 💻 Passionate **Frontend Developer** & **UI/UX Enthusiast** 
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **rumeshk066@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
-
-- 💼 Portfolio: [rumesh.me](https://rumesh.me/)
-
-- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/rumesh-kumara-166bb72a5/) 
-
-- 📄 CV: [View My CV](https://drive.google.com/drive/folders/1mXbIzEshVTSoybafWIW38V5_tm5HCdzX) 
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
-</table>
-
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rumesh" src="https://github.com/RumeshKumara/RumeshKumara/blob/176bfcfd5df5a4609bac63c90db6bc258ade4d3a/ChatGPT%20Image%20Apr%209%2C%202025%2C%2009_39_23%20PM.png" width="50%" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-
-<h1 align="center">🛠 Skills Overview</h1>
-
-<h2 align="center">🎨 Frontend</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" />
-  </a>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
 </p>
 
-<h2 align="center">⚙ Backend</h2>
+<!-- Animated Name with Gradient -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Rumesh+Kumara;Full+Stack+Developer;UI/UX+Designer;Tech+Explorer+🌍" />
+</h1>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,postgres,mysql,mongodb,dynamodb,nginx,kubernetes,docker,aws,firebase" />
-  </a>
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </p>
 
-<h2 align="center">🎯 UI/UX Designer</h2>
+<!-- QUICK BADGES -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,materialui" />
-  </a>
-</p>
-
-<h2 align="center">🧰 Other Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,discord,md" />
-  </a>
+  <img src="https://img.shields.io/badge/Code-MERN-blueviolet?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Focus-UI/UX-orange?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Loves-Coffee%20☕-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portfolio-Rumesh.me-36BCF7?style=for-the-badge&logo=vercel" />
 </p>
 
 ---
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+
+<!-- ABOUT ME CARD -->
+<div align="center">
+  <img src="https://github.com/kyechan99/capsule-render/blob/master/dist/transparent/gradient.svg" width="100%">
 </div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="left">
+
+### 🧑‍💻 About Me
+- 🚀 Currently mastering **MERN Stack**
+- 🎓 Undergraduate at **SUSL**
+- 💻 Degree: **Software Engineering**
+- 🎨 Passionate **Frontend & UI/UX Developer**
+- 💬 Ask me about **React, JavaScript, or Design Systems**
+- 📫 Reach me: **rumeshk066@gmail.com**
+- ⚡ Fun fact: Call me **KD**
+- 🌐 Portfolio → [rumesh.me](https://rumesh.me)
+- 📄 CV → [View My CV](https://drive.google.com/drive/folders/1mXbIzEshVTSoybafWIW38V5_tm5HCdzX)
+
+</td>
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/coding.gif" width="420px">
+</td>
+</tr>
+</table>
+
+---
+
+<!-- NOW PLAYING (Spotify) -->
+<h2 align="center">🎧 Now Playing</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/rumesh-kumara-166bb72a5/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ijbnvm7yt2b5qx7p4c6d2ycrri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
 </p>
 
-----
+---
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Contribution</h2> 
+<!-- TECH STACK -->
+<h2 align="center">🛠 Tech Stack</h2>
 
-</div>
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" />
+</p>
+
+<h3 align="center">⚙ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql,postgres,mongodb,dynamodb,nginx,kubernetes,docker,aws,firebase" />
+</p>
+
+<h3 align="center">🎯 UI/UX & Design</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,materialui" />
+</p>
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,discord,md" />
+</p>
+
+---
+
+<!-- STATS -->
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RumeshKumara&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RumeshKumara&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumeshKumara&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<!-- ACHIEVEMENTS -->
+<h2 align="center">🏆 Achievements & Highlights</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RumeshKumara&theme=radical&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+<!-- CONNECT -->
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rumesh-kumara-166bb72a5/"><img src="https://skillicons.dev/icons?i=linkedin" width="50px"></a>
+  <a href="mailto:rumeshk066@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50px"></a>
+  <a href="https://discordapp.com/users/957722095381540874"><img src="https://skillicons.dev/icons?i=discord" width="50px"></a>
+  <a href="https://rumesh.me"><img src="https://skillicons.dev/icons?i=vercel" width="50px"></a>
+</p>
+
+---
+
+<!-- CONTRIBUTIONS -->
+<h2 align="center">🐍 Contribution Activity</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" width="100%">
+</p>
+
+---
+
+<!-- NOW SECTION -->
+<h2 align="center">📌 Currently</h2>
+<p align="center">
+  🚀 Building <b>SmartBiz</b> — an AI-powered ERP system<br>
+  💡 Designing interfaces with <b>Figma + Framer Motion</b><br>
+  ⚙ Exploring <b>Spring Boot</b> & <b>Microservices Architecture</b><br>
+  📚 Reading “Clean Code” by Robert C. Martin<br>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <b>✨ Thanks for stopping by! ✨</b><br>
+  <i>Let’s connect and create something amazing together!</i>
 </p>
