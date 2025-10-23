@@ -54,8 +54,9 @@
 <!-- NOW PLAYING (Spotify) -->
 <h2 align="center">🎧 Now Playing</h2>
 <p align="center">
-  <img src="https://github.com/RumeshKumara/RumeshKumara/blob/d99cb182f2245236d4c5fcc364fb167b36b2c311/Gemini_Generated_Image_q2b66vq2b66vq2b6.png" />
+  <img src="https://github.com/RumeshKumara/RumeshKumara/blob/d99cb182f2245236d4c5fcc364fb167b36b2c311/Gemini_Generated_Image_q2b66vq2b66vq2b6.png" width="300" />
 </p>
+
 
 ---
 
