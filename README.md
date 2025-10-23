@@ -44,7 +44,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/coding.gif" width="420px">
+  <img src="https://github.com/RumeshKumara/RumeshKumara/blob/6c4f9de5340bf98156a1846ae30c7d0b876ce5fb/ChatGPT%20Image%20Apr%209%2C%202025%2C%2009_39_23%20PM.png" width="420px">
 </td>
 </tr>
 </table>
